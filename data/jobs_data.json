@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Backend Developer",
+      "company": "TechCorp",
+      "description": "Looking for a backend developer with experience in Python, FastAPI, SQL, and cloud platforms like AWS or Azure."
+    },
+    {
+      "title": "Full Stack Engineer",
+      "company": "DevSolutions",
+      "description": "The candidate should have knowledge in frontend (React) and backend (Node.js, Express) along with database management (PostgreSQL or MongoDB)."
+    },
+    {
+      "title": "AI Engineer",
+      "company": "InnovateAI",
+      "description": "Experience in machine learning, NLP, Python, PyTorch, and working with transformer-based models is required."
+    },
+    {
+      "title": "Software Engineer",
+      "company": "CodeBase",
+      "description": "Strong problem-solving skills, experience with version control (Git), Agile methodologies, and Java or Python backend systems."
+    }
+  ]
+  
